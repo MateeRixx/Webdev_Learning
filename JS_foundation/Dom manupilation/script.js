@@ -37,6 +37,19 @@ let tasklist=document.getElementById('tasklist');
 
 })
 
+// Part -2 of Task 
+
+
+//Example -6
+document.getElementById("clickMebutton").addEventListener("mousedown",function(){
+    alert("chai code");
+});
+
+
+
+
+
+
 
 
 
